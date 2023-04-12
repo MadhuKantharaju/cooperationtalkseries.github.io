@@ -2,7 +2,7 @@ lsi: false
 safe: true
 domain: cooperationtalkseries.github.io
 url: https://cooperationtalkseries.github.io
-baseurl: /docs/
+baseurl: /gh-pages/
 incremental: false
 highlighter: rouge
 gist:
