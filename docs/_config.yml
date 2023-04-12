@@ -18,9 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cooperation Talk Series
-email: your-email@example.com
+title: A Spotlight on Cooperation: from Behavior to the Brain
+email: Madhu.NagathihalliKantharaju@mdc-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
+  Cooperation has been a major factor in driving the evolution of humans among other animals and is
+believed to be vital for survival, reproductive success and social cohesion. Their most obvious
+manifestation is evident in eusocial species like social insects, and naked mole rats [1], where intense
+intraspecies interactions ensure their survival. Cooperation can result in immediate mutual benefit or
+can be disadvantageous for one or more of the participants. This underplay of self-benefit for the
+benefit of others creates an apparent dissonance that theories such as Hamilton’s kin selection [2]
+have tried to bridge. The underlying neural mechanisms and representations determining such
+cooperative strategies are still largely unknown, however, and have gained increased attention in
+recent years.
+We believe that a multidisciplinary perspective is best suited for enabling a broad discussion on the
+complex topic of ‘cooperation’. Therefore, we aim to invite experts from different backgrounds and
+hope to create new questions within the research. Topics within the talk series will cover a bandwidth
+including neural correlates of empathy, eusociality and group based decision making. Within this
+range, it addresses mechanisms and representations in the brain which are instrumental for
+cooperative behavior between individuals, like understanding other’s perspectives and intentions. We
+believe such an interdisciplinary talk series would engage a wide audience, especially researchers and
+students interested in social interactions and computation of decision making, but also empathy,
+animal cognition and the genetic underpinnings of cooperative and social behaviors.
+In organizing the speaker series, we anticipate diversity, equity and inclusion by especially
+encouraging speakers that belong to underrepresented groups within science to follow our invites.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
