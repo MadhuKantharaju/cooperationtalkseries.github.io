@@ -27,7 +27,7 @@ twitter_username: madhu_kantharaju
 github_username: MadhuKantharaju
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
